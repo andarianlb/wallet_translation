@@ -5,12 +5,12 @@ extension Localization on String {
 static var _t = Translations.byLocale("en_us") +
     {
       "es_es": {
-        'Biometrics Disabled': 'Biométrica deshabilitada',
-        'Loading your SEEDS Wallet...': 'Cargando tu SEEDS Wallet',
-        'Initializing Biometrics': 'Inicializando Biométrica',
-        'Enable Settings': 'Habilitar configuración',
-        'Try Again': 'Intenta de nuevo',
-        'Use Passcode': 'Utiliza el passcode'
+        'Biometrics Disabled': 'ביומטריקות כבויות',
+        'Loading your SEEDS Wallet...': 'טוען את ארנק הסידס שלך...',
+        'Initializing Biometrics': 'מאתחל ביומטריקות',
+        'Enable Settings': 'אפשר הגדרות',
+        'Try Again': 'נסה שוב',
+        'Use Passcode': 'השתמש בסיסמא'
       }
     };
   String get i18n => localize(this, _t);
