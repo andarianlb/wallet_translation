@@ -4,11 +4,11 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
+      "he_il": {
         'Accept your invite to create a new account and join SEEDS': 
-        "Acepta tu invitación a crear una nueva cuenta y únete a SEEDS",
-        'You are invited by %s': "Has sido invitado por %s",
-        "ACCEPT": "ACEPTAR",
+        "קבל את הזמנתך לפתוח חשבון חדש ולהצטרף לסידס",
+        'You are invited by %s': "אתה מוזמן על ידי %s",
+        "ACCEPT": "אני מסכימ/ה",
       }
     };
 
