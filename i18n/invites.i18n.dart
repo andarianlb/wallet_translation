@@ -4,27 +4,27 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
+      "he_il": {
         
-        "Invites": "Invitaciones",
-        "Members invited by you:": "Miembros invitados por ti",
-        "Active invites:": "Invitaciones activas",
-        "%s (copy)": "%s (copia)", // copy tx hash
-        "Sow: %s": "Siembra: %s",
-        "Transfer: %s": "Transfiere: %s",
-        "No active invites": "No hay invitaciones activas",
-        "Create new invite": "Crear nueva invitación",
+        "Invites": "הזמנות",
+        "Members invited by you:": "חברים שהוזמנו על ידך",
+        "Active invites:": "הזמנות פעילות",
+        "%s (copy)": "%s (העתק)", // copy tx hash
+        "Sow: %s": "לקצור: %s",
+        "Transfer: %s": "העברה: %s",
+        "No active invites": "אין הזמנות פעילות",
+        "Create new invite": "יצירת הזמנה חדשה",
 
-        "Transaction hash: %s": "Hash de transacción: %s",
-        "Show invite code": "Mostrar código de invitación",
-        "Invite friend": "Invitar amiga(o)",
-        "Invite amount (minimum: 5)": "Monto de invitación (mínimo: 5)",
-        "Create invite": "Crear invitación",
-        "GREAT": "GENIAL",
-        "Share this link with the person you want to invite!": "¡Comparte este enlace con la persona que quieres invitar!",
-        "Share Link": "Comparte enlace",
-        "Share Code": "Comparte código",
-        "Done": "Listo",
+        "Transaction hash: %s": "האש העברה: %s",
+        "Show invite code": "הראה קוד הזמנה",
+        "Invite friend": "הזמנת חבר/ה",
+        "Invite amount (minimum: 5)": "כמה להזמנה (5 מינימום)",
+        "Create invite": "יצירת הזמנה",
+        "GREAT": "נהדר",
+        "Share this link with the person you want to invite!": "שלחו את הקישור הזה למי שתרצו להזמין",
+        "Share Link": "שיתוף קישור",
+        "Share Code": "שיתוף קוד",
+        "Done": "סיום",
       }
     };
 
