@@ -4,35 +4,35 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
-        'Available balance': "Balance disponible",
-        "Paste from clipboard": "Pegar del portapapeles",
-        "ONLINE (connected to %s)": "EN LÍNEA (conectado a %s)",
-        'OFFLINE (trying to reconnect)': "FUERA DE LÍNEA (intentando reconectar)",
+      "he_il": {
+        'Available balance': "מאזן זמין",
+        "Paste from clipboard": "הדבק מהלוח",
+        "ONLINE (connected to %s)": "אונליין (מחובר ל %s)",
+        'OFFLINE (trying to reconnect)': "מנותק (מנסה להתחבר)",
 
-        "Transaction successful": "Transacción exitosa",
-        "Transaction failed": "Transacción fallida",
-        "Done": "Listo",
+        "Transaction successful": "ההעברה הושלמה",
+        "Transaction failed": "ההעברה נכשלה",
+        "Done": "סיים",
 
-        'Page Not Found': "Página no encontrada",
-        'The page you are looking for is not available': "La página que buscas no está disponible",
+        'Page Not Found': "עמוד לא נמצא",
+        'The page you are looking for is not available': "העמוד שחיפשתם אינו זמין",
 
-        "Delete": "Borrar",
-        "Enter Passcode": "Ingresar código de acceso",
-        "Choose Passcode": "Escoge código de acceso",
-        "Disable Passcode": "Deshabilita código de acceso",
+        "Delete": "למחוק",
+        "Enter Passcode": "הכניסו סיסמא",
+        "Choose Passcode": "ביחרו סיסמא",
+        "Disable Passcode": "ביטול סיסמא",
 
-        'Planted balance': "Balance plantado",
+        'Planted balance': "מאזן שתילה",
 
-        'Telos balance': "Balance Telos",
+        'Telos balance': "מאזן Telos",
 
-        "Transaction hash: %s": "Hash de transacción: %s",
-        'Transfer amount': "Monto a transferir",
-        'Send': "Enviar",
-        'Back': 'Atrás',
-        "Explore": "Explorar",
-        "Wallet": "Billetera",
-        "Profile": "Perfil",
+        "Transaction hash: %s": "האש העברה: %s",
+        'Transfer amount': "כמות להעברה",
+        'Send': "שליחה",
+        'Back': 'חזרה',
+        "Explore": "סייר",
+        "Wallet": "ארנק",
+        "Profile": "פרופיל",
       }
     };
 
