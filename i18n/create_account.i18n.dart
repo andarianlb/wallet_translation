@@ -4,25 +4,25 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
-        'Please enter your name': "Por favor ingresa tu nombre",
-        'Your account name should have exactly 12 symbols': "Tu nombre de cuenta debe tener exactamente 12 caracteres",
-        'Your account name should only contain numbers 1-5': "Tu nombre de cuenta puede contener números del 1 al 5",
-        "Your account name can't cont'n uppercase letters": "Tu nombre de cuenta no puede tener letras mayúsculas",
-        "Your account name should cont'n lower case letters": "Tu nombre de cuenta debe tener letras minúsculas",
-        'Your name': "Tu nombre",
-        'SEEDS Username': "SEEDS Nombre de usuario",
-        'Full Name': "Nombre completo",
-        'Enter your name': "Ingresa tu nombre", 
-        'Next': "Siguiente", 
-        'Available: ': "Disponible: ",
-        "Create account": "Crear cuenta",
+      "he_il": {
+        'Please enter your name': "בבקשה הכניסו את שמכם",
+        'Your account name should have exactly 12 symbols': "שם החשבון צריך להיות באורך 12 אותיות בדיוק",
+        'Your account name should only contain numbers 1-5': "שם החשבון יכול להכיל רק מספרים 1-5",
+        "Your account name can't cont'n uppercase letters": "שם החשבון לא יכול להכיל אותיות גדולות",
+        "Your account name should cont'n lower case letters": "שם החשבון צריך לכלול אותיות קטנות",
+        'Your name': "שמכם",
+        'SEEDS Username': "שם משתמש בסידס",
+        'Full Name': "שם מלא",
+        'Enter your name': "הכניסו את שמכם", 
+        'Next': "הבא", 
+        'Available: ': "זמין: ",
+        "Create account": "יצירת חשבון",
         
         // NOTE: The sentence "your account should have exactly 12 symbols ..."
         // the words "exactly 12" are bold on the screen
-        "Your account name should have ": "Tu nombre de cuenta debe tener ",
-        "exactly 12": "exactamente 12",
-        " symbols (lowercase letters and digits only 1-5)": " caracteres (letras minúsculas y números solo del 1 al 5)",
+        "Your account name should have ": "שם החשבון צריך להכיל ",
+        "exactly 12": "בדיוק 12",
+        " symbols (lowercase letters and digits only 1-5)": " אותיות וסמלים (אותיות קטנות וספרות 1-5)",
       }
     };
 
