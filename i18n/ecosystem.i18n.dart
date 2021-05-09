@@ -4,24 +4,24 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
-        "Vote": "Propuestas - Votar",
-        "Tap to participate": "Toca para participar",
-        "Trust Tokens": "Tokens de Confianza",
+      "he_il": {
+        "Vote": "הצבעה",
+        "Tap to participate": "לחצו להשתתפות",
+        "Trust Tokens": "אֲסִימוֹן אמון",
 
-        "Invite": "Invitar",
-        "Tap to send an invite": "Toca para enviar invitación",
-        "Available Seeds": "Seeds disponibles",
+        "Invite": "הזמנה",
+        "Tap to send an invite": "לחצו לשליחת הזמנה",
+        "Available Seeds": "סידס זמינים",
         
-        "Plant": "Planta",
-        "Tap to plant Seeds": "Toca para plantar Seeds",
-        "Planted Seeds": "Seeds plantadas",
+        "Plant": "שתילה",
+        "Tap to plant Seeds": "לחצו לשתילת סידס",
+        "Planted Seeds": "סידס שתולים",
 
-        "Sow: %s Transfer: %s": "Siembra: %s Transfiere: %s",
-        "Copy": "Copiar",
-        "Cancel": "Cancelar",
-        "Your invites": "Tus invitaciones",
-        "Build community - gain reputation": "Construye comunidad - gana reputación",
+        "Sow: %s Transfer: %s": "לקצור: %s להעביר: %s",
+        "Copy": "העתק",
+        "Cancel": "ביטול",
+        "Your invites": "ההזמנות שלך",
+        "Build community - gain reputation": "בנו קהילה - הרוויחו מוניטין",
       }
     };
 
