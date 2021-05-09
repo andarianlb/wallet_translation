@@ -5,17 +5,17 @@ extension Localization on String {
 static var _t = Translations.byLocale("en_us") +
     {
       "es_es": {
-        "Private key": "Llave privada",
-        "Paste from clipboard": "Pegar del portapapeles",
+        "Private key": "מפתח פרטי",
+        "Paste from clipboard": "הדבק מהלוח",
         
         "If you already have Seeds account - enter active private key and account will be imported automatically": 
-        "Si ya tienes una cuenta de Seeds - ingresa tu llave privada activa y tu cuenta se importará automáticamente",
+        "אם כבר יש לכם חשבון סידס - הכניסו מפתח פרטי והחשבון ייובא אוטומטית",
 
-        "Looking for accounts...": "Buscando cuentas...",
-        "No accounts found associated with given key": "No se encontraron cuentas asociadas a esta llave",
-        "Given private key is not valid": "La llave privada no es válida",
-        "Account name": "Nombre de cuenta",
-        'Import account': "Importar cuenta",
+        "Looking for accounts...": "מחפש חשבונות...",
+        "No accounts found associated with given key": "לא נמצאו חשבונות מחוברים למפתח שהוכנס",
+        "Given private key is not valid": "המפתח שהוכנס אינו תקין",
+        "Account name": "שם חשבון:",
+        'Import account': "ייבוא חשבון:",
       }
     };
 
