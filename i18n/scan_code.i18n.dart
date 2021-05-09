@@ -4,8 +4,8 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
-         "Scan failed - go back to choose another method": "Escaneo falló - regresa a escoger otro método",
+      "he_il": {
+         "Scan failed - go back to choose another method": "הסריקה כשלה - חזור כדי לבחור דרך נוספת",
       }
     };
 
