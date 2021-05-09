@@ -4,7 +4,7 @@ extension Localization on String {
 
 static var _t = Translations.byLocale("en_us") +
     {
-      "es_es": {
+      "he_il": {
         
         "Proposals": "הצעות",
         'Staged': "מוצגות",
@@ -26,7 +26,7 @@ static var _t = Translations.byLocale("en_us") +
         'Campaign': "קמפיין",
         'Status: %s ': "תמונת מצב: %s ",
         'Stage: %s ': "שלב: %s ",
-        'URL: ': "URL: ",
+        'URL: ': "קישור: ",
         "Couldn't open this url": "לא ניתן לפתוח את הקישור",
         'Description': "תאור",
         'Voting': "הצבעה",
